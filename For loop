@@ -1,0 +1,9 @@
+public class Loops {
+    public static void main(String[] args) {
+
+        for (int a = 1; a <= 45; a++) {
+            System.out.println("ans:" + a);
+
+        }
+    }
+}

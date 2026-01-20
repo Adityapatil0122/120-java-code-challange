@@ -11,7 +11,7 @@ public class Car {
 
     }
     void drive() {
-                System.out.println("you drive the car"+name);
+                System.out.println("you drive the car "+name);
 
     }
 }
